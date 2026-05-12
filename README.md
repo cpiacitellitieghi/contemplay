@@ -1,3 +1,4 @@
+
 # Banco de Cotas - Extrator de Dados
 
 Um aplicativo iOS nativo desenvolvido em Swift e SwiftUI para extrair automaticamente dados de consórcios do aplicativo "Banco de Cotas" usando reconhecimento óptico de caracteres (OCR) e gerar planilhas Excel.
